@@ -4,8 +4,6 @@ echo "Happy weekend"
 echo "Hello Guys, it's me Darshan"
 echo "Good Morning!"
 echo "This is the new line"
-echo "Hello all!"
-echo "What's going on?"
 
 
 
