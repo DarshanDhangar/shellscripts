@@ -4,6 +4,6 @@ echo "Happy weekend"
 echo "Hello Guys, it's me Darshan"
 echo "Good Morning!"
 echo "This is the new line"
-
-
+echo "Adding data from branc1 to master barnch"
+echo "Hello all!"
 
