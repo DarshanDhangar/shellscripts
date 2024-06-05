@@ -6,4 +6,6 @@ echo "Good Morning!"
 echo "This is the new line"
 echo "Adding data from branc1 to master barnch"
 echo "Hello all!"
+echo "This is branch1"
 echo "This is brnach2"
+
