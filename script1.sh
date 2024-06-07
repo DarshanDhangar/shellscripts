@@ -9,4 +9,6 @@ echo "Hello all!"
 echo "This is branch1"
 echo "This is brnach2"
 echo "Hello!"
+echo "what are you doing?"
 echo "How are you?"
+
